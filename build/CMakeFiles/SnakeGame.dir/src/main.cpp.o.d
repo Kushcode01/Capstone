@@ -228,4 +228,27 @@ CMakeFiles/SnakeGame.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/7/bits/opt_random.h \
  /usr/include/c++/7/bits/random.tcc /usr/include/c++/7/numeric \
  /usr/include/c++/7/bits/stl_numeric.h \
- /home/kushagra.rawat/CppND-Capstone-Snake-Game-master/src/renderer.h
+ /home/kushagra.rawat/CppND-Capstone-Snake-Game-master/src/renderer.h \
+ /usr/include/c++/7/mutex /usr/include/c++/7/tuple \
+ /usr/include/c++/7/array /usr/include/c++/7/bits/uses_allocator.h \
+ /usr/include/c++/7/bits/invoke.h /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/ctime \
+ /usr/include/c++/7/bits/parse_numbers.h \
+ /usr/include/c++/7/bits/std_mutex.h \
+ /usr/include/c++/7/condition_variable \
+ /usr/include/c++/7/ext/concurrence.h \
+ /usr/include/c++/7/bits/unique_ptr.h \
+ /usr/include/c++/7/bits/shared_ptr.h \
+ /usr/include/c++/7/bits/shared_ptr_base.h \
+ /usr/include/c++/7/bits/allocated_ptr.h \
+ /usr/include/c++/7/bits/refwrap.h \
+ /usr/include/c++/7/ext/aligned_buffer.h /usr/include/c++/7/future \
+ /usr/include/c++/7/thread /usr/include/c++/7/memory \
+ /usr/include/c++/7/bits/stl_tempbuf.h \
+ /usr/include/c++/7/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/7/bits/shared_ptr_atomic.h \
+ /usr/include/c++/7/bits/atomic_base.h \
+ /usr/include/c++/7/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/7/backward/auto_ptr.h /usr/include/c++/7/atomic \
+ /usr/include/c++/7/bits/atomic_futex.h \
+ /usr/include/c++/7/bits/std_function.h

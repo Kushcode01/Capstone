@@ -563,15 +563,45 @@ CMakeFiles/SnakeGame.dir/src/game.cpp.o: ../src/game.cpp \
   ../src/controller.h \
   ../src/snake.h \
   ../src/renderer.h \
+  /usr/include/c++/7/mutex \
+  /usr/include/c++/7/tuple \
+  /usr/include/c++/7/array \
+  /usr/include/c++/7/stdexcept \
+  /usr/include/c++/7/bits/uses_allocator.h \
+  /usr/include/c++/7/bits/invoke.h \
+  /usr/include/c++/7/chrono \
+  /usr/include/c++/7/ratio \
+  /usr/include/c++/7/ctime \
+  /usr/include/c++/7/bits/parse_numbers.h \
+  /usr/include/c++/7/system_error \
+  /usr/include/x86_64-linux-gnu/c++/7/bits/error_constants.h \
+  /usr/include/c++/7/bits/std_mutex.h \
+  /usr/include/c++/7/condition_variable \
+  /usr/include/c++/7/ext/concurrence.h \
+  /usr/include/c++/7/bits/unique_ptr.h \
+  /usr/include/c++/7/bits/shared_ptr.h \
+  /usr/include/c++/7/bits/shared_ptr_base.h \
+  /usr/include/c++/7/bits/allocated_ptr.h \
+  /usr/include/c++/7/bits/refwrap.h \
+  /usr/include/c++/7/ext/aligned_buffer.h \
+  /usr/include/c++/7/future \
+  /usr/include/c++/7/thread \
+  /usr/include/c++/7/memory \
+  /usr/include/c++/7/bits/stl_tempbuf.h \
+  /usr/include/c++/7/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/7/bits/shared_ptr_atomic.h \
+  /usr/include/c++/7/bits/atomic_base.h \
+  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/7/backward/auto_ptr.h \
+  /usr/include/c++/7/atomic \
+  /usr/include/c++/7/bits/atomic_futex.h \
+  /usr/include/c++/7/bits/std_function.h \
   /usr/include/c++/7/iostream \
   /usr/include/c++/7/ostream \
   /usr/include/c++/7/ios \
   /usr/include/c++/7/bits/ios_base.h \
   /usr/include/c++/7/bits/locale_classes.h \
   /usr/include/c++/7/bits/locale_classes.tcc \
-  /usr/include/c++/7/system_error \
-  /usr/include/x86_64-linux-gnu/c++/7/bits/error_constants.h \
-  /usr/include/c++/7/stdexcept \
   /usr/include/c++/7/streambuf \
   /usr/include/c++/7/bits/streambuf.tcc \
   /usr/include/c++/7/bits/basic_ios.h \
@@ -586,30 +616,7 @@ CMakeFiles/SnakeGame.dir/src/game.cpp.o: ../src/game.cpp \
   /usr/include/c++/7/bits/basic_ios.tcc \
   /usr/include/c++/7/bits/ostream.tcc \
   /usr/include/c++/7/istream \
-  /usr/include/c++/7/bits/istream.tcc \
-  /usr/include/c++/7/thread \
-  /usr/include/c++/7/chrono \
-  /usr/include/c++/7/ratio \
-  /usr/include/c++/7/ctime \
-  /usr/include/c++/7/bits/parse_numbers.h \
-  /usr/include/c++/7/memory \
-  /usr/include/c++/7/bits/stl_tempbuf.h \
-  /usr/include/c++/7/bits/stl_raw_storage_iter.h \
-  /usr/include/c++/7/ext/concurrence.h \
-  /usr/include/c++/7/bits/uses_allocator.h \
-  /usr/include/c++/7/bits/unique_ptr.h \
-  /usr/include/c++/7/tuple \
-  /usr/include/c++/7/array \
-  /usr/include/c++/7/bits/invoke.h \
-  /usr/include/c++/7/bits/shared_ptr.h \
-  /usr/include/c++/7/bits/shared_ptr_base.h \
-  /usr/include/c++/7/bits/allocated_ptr.h \
-  /usr/include/c++/7/bits/refwrap.h \
-  /usr/include/c++/7/ext/aligned_buffer.h \
-  /usr/include/c++/7/bits/shared_ptr_atomic.h \
-  /usr/include/c++/7/bits/atomic_base.h \
-  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
-  /usr/include/c++/7/backward/auto_ptr.h
+  /usr/include/c++/7/bits/istream.tcc
 
 CMakeFiles/SnakeGame.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/stdc-predef.h \
@@ -907,7 +914,37 @@ CMakeFiles/SnakeGame.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/c++/7/bits/random.tcc \
   /usr/include/c++/7/numeric \
   /usr/include/c++/7/bits/stl_numeric.h \
-  ../src/renderer.h
+  ../src/renderer.h \
+  /usr/include/c++/7/mutex \
+  /usr/include/c++/7/tuple \
+  /usr/include/c++/7/array \
+  /usr/include/c++/7/bits/uses_allocator.h \
+  /usr/include/c++/7/bits/invoke.h \
+  /usr/include/c++/7/chrono \
+  /usr/include/c++/7/ratio \
+  /usr/include/c++/7/ctime \
+  /usr/include/c++/7/bits/parse_numbers.h \
+  /usr/include/c++/7/bits/std_mutex.h \
+  /usr/include/c++/7/condition_variable \
+  /usr/include/c++/7/ext/concurrence.h \
+  /usr/include/c++/7/bits/unique_ptr.h \
+  /usr/include/c++/7/bits/shared_ptr.h \
+  /usr/include/c++/7/bits/shared_ptr_base.h \
+  /usr/include/c++/7/bits/allocated_ptr.h \
+  /usr/include/c++/7/bits/refwrap.h \
+  /usr/include/c++/7/ext/aligned_buffer.h \
+  /usr/include/c++/7/future \
+  /usr/include/c++/7/thread \
+  /usr/include/c++/7/memory \
+  /usr/include/c++/7/bits/stl_tempbuf.h \
+  /usr/include/c++/7/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/7/bits/shared_ptr_atomic.h \
+  /usr/include/c++/7/bits/atomic_base.h \
+  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/7/backward/auto_ptr.h \
+  /usr/include/c++/7/atomic \
+  /usr/include/c++/7/bits/atomic_futex.h \
+  /usr/include/c++/7/bits/std_function.h
 
 CMakeFiles/SnakeGame.dir/src/renderer.cpp.o: ../src/renderer.cpp \
   /usr/include/stdc-predef.h \
@@ -1491,23 +1528,29 @@ CMakeFiles/SnakeGame.dir/src/snake.cpp.o: ../src/snake.cpp \
 
 ../src/main.cpp:
 
+/usr/include/c++/7/bits/atomic_futex.h:
+
 /usr/include/c++/7/bits/atomic_lockfree_defines.h:
 
 /usr/include/c++/7/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/7/bits/stl_raw_storage_iter.h:
 
 /usr/include/c++/7/bits/allocated_ptr.h:
 
 /usr/include/c++/7/bits/shared_ptr_base.h:
 
+/usr/include/c++/7/bits/unique_ptr.h:
+
+/usr/include/c++/7/bits/std_mutex.h:
+
+/usr/include/c++/7/ratio:
+
 /usr/include/c++/7/array:
 
 /usr/include/c++/7/tuple:
 
-/usr/include/c++/7/bits/unique_ptr.h:
-
-/usr/include/c++/7/bits/stl_raw_storage_iter.h:
-
-/usr/include/c++/7/ratio:
+/usr/include/c++/7/mutex:
 
 ../src/renderer.h:
 
@@ -1524,6 +1567,8 @@ CMakeFiles/SnakeGame.dir/src/snake.cpp.o: ../src/snake.cpp \
 /usr/include/c++/7/bits/random.h:
 
 ../src/game.h:
+
+/usr/include/c++/7/condition_variable:
 
 ../src/game.cpp:
 
@@ -1572,6 +1617,8 @@ CMakeFiles/SnakeGame.dir/src/snake.cpp.o: ../src/snake.cpp \
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
+
+/usr/include/c++/7/atomic:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
@@ -1801,6 +1848,8 @@ CMakeFiles/SnakeGame.dir/src/snake.cpp.o: ../src/snake.cpp \
 
 /usr/include/c++/7/bits/exception_defines.h:
 
+/usr/include/c++/7/future:
+
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/c++/7/bits/exception_ptr.h:
@@ -1866,6 +1915,8 @@ CMakeFiles/SnakeGame.dir/src/snake.cpp.o: ../src/snake.cpp \
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
 /usr/include/c++/7/bits/concept_check.h:
+
+/usr/include/c++/7/bits/std_function.h:
 
 /usr/include/c++/7/ext/type_traits.h:
 
